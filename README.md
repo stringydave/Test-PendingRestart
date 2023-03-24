@@ -5,7 +5,7 @@ Usage: Test-PendingRestart.ps1
 return: 0   no Pending Restart detected
 return: 1   Pending Restart detected
 
-I just wanted something simple which I could use in scripts running on workstaitons to tell if a Restart is Pending
+I just wanted something simple which I could use in scripts running on workstations to tell if a Restart is Pending
 
 There seem to be lots of scripts to query remote servers, but I could only find a few to just query the local machine
 
